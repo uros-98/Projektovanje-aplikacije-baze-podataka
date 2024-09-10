@@ -1,0 +1,28 @@
+body {
+    background: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(https://oranica.rs/images/cover-background.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.card {
+    background-color: yellowgreen;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+label {
+    padding-left: 20px;
+}
+
+.form-control {
+    border-radius: 15px;
+}
